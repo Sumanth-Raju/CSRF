@@ -1,0 +1,6 @@
+@HdfcBank_HostAddress = http://localhost:5001
+
+GET {{HdfcBank_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
